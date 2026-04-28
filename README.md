@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/7662/7662705.png" width="80" />
+  <img src="https://img.icons8.com/fluency/96/leaf.png" width="80" />
 </p>
 
 <h1 align="center">ANNADAAN</h1>
@@ -17,7 +17,6 @@ Reducing Food Waste. Empowering Communities.
   <img src="https://img.shields.io/badge/Firebase-Backend-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
 </p>
-
 ---
 
 ## 🌍 Overview
