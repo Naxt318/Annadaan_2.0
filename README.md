@@ -115,10 +115,7 @@ ANNADAAN is built on multi-stakeholder collaboration — uniting donors, NGOs, a
 
 <div align="center">
 
-```
-SDG 2 · SDG 3 · SDG 11 · SDG 12 · SDG 17
-Zero Hunger · Good Health · Sustainable Cities · Responsible Consumption · Partnerships
-```
+----
 
 >   *ANNADAAN is proudly aligned with the United Nations 2030 Agenda for Sustainable Development.*
 
