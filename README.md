@@ -1,4 +1,8 @@
-# 🍱 ANNADAAN  
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/7662/7662705.png" width="80" />
+</p>
+
+<h1 align="center">ANNADAAN</h1>
 
 <p align="center">
 Reducing Food Waste. Empowering Communities.  
@@ -56,5 +60,6 @@ Instead of letting surplus food go to waste, ANNADAAN ensures it is redistribute
 | Routing  | Wouter |
 | AI       | Gemini API |
 
-Live Demo - 
+---
 
+Try Now - 
