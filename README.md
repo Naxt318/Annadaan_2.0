@@ -117,7 +117,7 @@ ANNADAAN is built on multi-stakeholder collaboration — uniting donors, NGOs, a
 
 ----
 
->   *ANNADAAN is proudly aligned with the United Nations 2030 Agenda for Sustainable Development.*
+  *ANNADAAN is proudly aligned with the United Nations 2030 Agenda for Sustainable Development.*
 
 </div>
 
