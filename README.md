@@ -41,6 +41,92 @@ Restaurants, caterers, and households discard tonnes of perfectly edible food da
 
 -----
 
+## 🌐 UN Sustainable Development Goals Achieved
+
+ANNADAAN directly contributes to **5 United Nations SDGs**, making it more than just an app — it’s a movement aligned with the global 2030 Agenda.
+
+<table>
+<tr>
+<td width="60" align="center">
+
+![SDG2](https://img.shields.io/badge/SDG%202-Zero%20Hunger-orange?style=flat-square)
+
+</td>
+<td>
+
+**🌾 Goal 2 — Zero Hunger**
+By redistributing surplus food to NGOs and underserved communities, ANNADAAN directly fights food insecurity and ensures nutritious food reaches those who need it most.
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center">
+
+![SDG3](https://img.shields.io/badge/SDG%203-Good%20Health-green?style=flat-square)
+
+</td>
+<td>
+
+**💚 Goal 3 — Good Health & Well-Being**
+Access to food is access to health. ANNADAAN ensures communities receive safe, edible food that supports physical well-being, particularly for vulnerable populations.
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center">
+
+![SDG11](https://img.shields.io/badge/SDG%2011-Sustainable%20Cities-yellow?style=flat-square)
+
+</td>
+<td>
+
+**🏙️ Goal 11 — Sustainable Cities & Communities**
+By building a hyperlocal food redistribution network, ANNADAAN strengthens community resilience and promotes inclusive, sustainable urban ecosystems.
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center">
+
+![SDG12](https://img.shields.io/badge/SDG%2012-Responsible%20Consumption-red?style=flat-square)
+
+</td>
+<td>
+
+**♻️ Goal 12 — Responsible Consumption & Production**
+ANNADAAN directly targets **SDG Target 12.3** — halving per capita global food waste by 2030 — by giving donors a simple, frictionless tool to redirect surplus food instead of discarding it.
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center">
+
+![SDG17](https://img.shields.io/badge/SDG%2017-Partnerships-blue?style=flat-square)
+
+</td>
+<td>
+
+**🤝 Goal 17 — Partnerships for the Goals**
+ANNADAAN is built on multi-stakeholder collaboration — uniting donors, NGOs, and volunteers under one platform, modelling the spirit of partnership that drives lasting change.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+```
+SDG 2 · SDG 3 · SDG 11 · SDG 12 · SDG 17
+Zero Hunger · Good Health · Sustainable Cities · Responsible Consumption · Partnerships
+```
+
+> 🇺🇳 *ANNADAAN is proudly aligned with the United Nations 2030 Agenda for Sustainable Development.*
+
+</div>
+
+-----
+
+
 ## 💡 What is ANNADAAN?
 
 ANNADAAN is a **purpose-driven food redistribution platform** that creates a real-time bridge between those who have surplus food and those who need it most. By connecting **Donors → NGOs → Volunteers → Recipients** in one seamless flow, we ensure that no meal goes to waste.
