@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Naxt318/Annadaan./main/647421c9-dfbc-4d1a-af9f-842d606e3eee.png" width="100"/>
+<img src="https://raw.githubusercontent.com/Naxt318/Annadaan./main/Logo.png" width="100"/>
 
 # 🌿 ANNADAAN
 
