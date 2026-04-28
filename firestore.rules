@@ -1,0 +1,56 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    function hasRole(role) {
+      return signedIn()
+        && exists(/databases/$(database)/documents/users/$(request.auth.uid))
+        && get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == role;
+    }
+
+    match /users/{userId} {
+      allow read: if signedIn();
+      allow create, update: if signedIn() && request.auth.uid == userId;
+    }
+
+    match /donations/{donationId} {
+      allow create: if hasRole("donor")
+        && request.resource.data.donorId == request.auth.uid;
+
+      allow read: if signedIn()
+        && (
+          hasRole("ngo")
+          || hasRole("volunteer")
+          || resource.data.donorId == request.auth.uid
+        );
+
+      allow update: if signedIn()
+        && (
+          resource.data.donorId == request.auth.uid
+          || hasRole("ngo")
+        );
+    }
+
+    match /deliveries/{deliveryId} {
+      allow read: if signedIn()
+        && (
+          hasRole("volunteer")
+          || hasRole("ngo")
+          || resource.data.donorId == request.auth.uid
+        );
+
+      allow create: if hasRole("ngo");
+      allow update: if hasRole("ngo") || hasRole("volunteer");
+    }
+
+    match /notifications/{notificationId} {
+      allow create: if signedIn();
+      allow read, update: if signedIn()
+        && resource.data.recipientId == request.auth.uid;
+    }
+  }
+}

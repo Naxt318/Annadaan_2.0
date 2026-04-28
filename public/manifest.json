@@ -1,0 +1,43 @@
+{
+  "name": "ANNADAAN - Food Redistribution",
+  "short_name": "ANNADAAN",
+  "description": "Connecting food donors, NGOs and volunteers in Mumbai to reduce food waste.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFAEC",
+  "theme_color": "#578E7E",
+  "orientation": "portrait-primary",
+  "categories": ["food", "social", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Donate Food",
+      "url": "/donor-dashboard",
+      "description": "List surplus food for donation"
+    },
+    {
+      "name": "NGO Requests",
+      "url": "/ngo-dashboard",
+      "description": "Browse and accept food donations"
+    },
+    {
+      "name": "Deliveries",
+      "url": "/volunteer-dashboard",
+      "description": "Claim and track deliveries"
+    }
+  ]
+}
